@@ -1,6 +1,6 @@
-3.	---
-4.	layout: slide
-5.	title: "Welcome to our second slide!"
-6.	---
-7.	Your text
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Shit is getting real!
 Use the left arrow to go back!
